@@ -1,2 +1,2 @@
 # Importing-data
- Importing the history of transactions from the binance.com website into a csv file
+ Importing the history of transactions from the binance.com website to a csv file
